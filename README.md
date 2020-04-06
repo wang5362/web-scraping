@@ -1,7 +1,7 @@
-# Web Scrapping
+# Web Scraping
 
 ### Background Information 
-Hi, Welcome to my Github page - Web Scrapping section.
+Hi, Welcome to my Github page - Web Scraping section.
 This is a Machine Learning project I conducted as a team with other graudate students as one cohort at the Carlson School of Managemnet.
 
 ### Language Used 
